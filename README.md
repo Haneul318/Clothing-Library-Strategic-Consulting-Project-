@@ -20,22 +20,22 @@ This consulting report (course project) evaluated the Clothing Library’s opera
 - **Stakeholder Mapping**: Involved Griffith University, staff/alumni donors, students, and volunteers.  
 
 ---
-
-## 💡 Key Recommendations  
+ 
+## 💡  Key Recommendations   
 1. **Awareness Campaigns**  
    - Multi-platform promotions (Instagram, Facebook, campus posters).  
-   - Pop-up donation/awareness events at high-traffic campus areas.  
+   - Pop-up donation/awareness events at high-traffic campus areas.   
 
 2. **Volunteer Strategy**  
    - Define clear roles (Project Coordinator, Event Coordinator, Social Media Manager).  
-   - Provide structured onboarding, certificates, and LinkedIn endorsements.  
+   - Provide structured onboarding, certificates, and LinkedIn endorsements.   
 
 3. **Donation Sustainability**  
    - Partner with local businesses, alumni, and NGOs.  
    - Schedule seasonal donation drives (graduation, semester-end).  
 
 4. **Operational Improvements**  
-   - Implement a digital inventory management system.  
+   - Implement a digital inventory management system.   
    - Collect student feedback to refine services.  
    - Explore expansion to **Gold Coast Campus**.  
 
@@ -70,7 +70,7 @@ This consulting report (course project) evaluated the Clothing Library’s opera
 ## 🛠️ Tech & Skills Applied  
 - Strategic analysis (SWOT, competitor benchmarking)  
 - Stakeholder mapping & engagement strategies  
-- Project planning (Gantt chart)  
+- Project planning (Gantt chart )  
 - Sustainability and ethical consumption frameworks  
 - Report writing & professional presentation  
 
